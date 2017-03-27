@@ -27,11 +27,15 @@
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
         </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+        </dependency>
     </dependencies>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <start-class>netgloo.Application</start-class>
+        <start-class>de.test.Main</start-class>
         <java.version>1.8</java.version>
     </properties>
 
