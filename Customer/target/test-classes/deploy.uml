@@ -12803,7 +12803,7 @@
 					<qualityScore value="-1"/>
 				</xmi:Extension>
 			</nestedClassifier>
-			<nestedClassifier isAbstract="false" isLeaf="false" name="mysql:1502" xmi:id="5GcYoNqGAqAEbgby" xmi:type="uml:Artifact">
+			<nestedClassifier isAbstract="false" isLeaf="false" name="custom-mysql:3306" xmi:id="5GcYoNqGAqAEbgby" xmi:type="uml:Artifact">
 				<xmi:Extension extender="Visual Paradigm">
 					<qualityScore value="-1"/>
 				</xmi:Extension>
