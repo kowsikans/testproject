@@ -12771,7 +12771,7 @@
 		<packagedElement xmi:id="defaultEventOfMessageOccurrency" xmi:type="uml:AnyReceiveEvent"/>
 		<packagedElement operation="6Ilc9VqGAqAEbgfq" xmi:id="jcgh9VqGAqAEbgxg_signature" xmi:type="uml:CallEvent"/>
 		<packagedElement operation="DnHc9VqGAqAEbgf4" xmi:id="5t0h9VqGAqAEbgyO_signature" xmi:type="uml:CallEvent"/>
-		<packagedElement isAbstract="false" isActive="false" isLeaf="false" name="localhost:4243" visibility="public" xmi:id="Aq0YoNqGAqAEbgbn" xmi:type="uml:Node">
+		<packagedElement isAbstract="false" isActive="false" isLeaf="false" name="ubuntu-xenial:4243" visibility="public" xmi:id="Aq0YoNqGAqAEbgbn" xmi:type="uml:Node">
 			<xmi:Extension extender="Visual Paradigm">
 				<isRoot xmi:value="false"/>
 				<qualityScore value="-1"/>
@@ -12799,11 +12799,6 @@
 						<qualityScore value="-1"/>
 					</xmi:Extension>
 				</ownedEnd>
-				<xmi:Extension extender="Visual Paradigm">
-					<qualityScore value="-1"/>
-				</xmi:Extension>
-			</nestedClassifier>
-			<nestedClassifier isAbstract="false" isLeaf="false" name="custom-mysql:3306" xmi:id="5GcYoNqGAqAEbgby" xmi:type="uml:Artifact">
 				<xmi:Extension extender="Visual Paradigm">
 					<qualityScore value="-1"/>
 				</xmi:Extension>
