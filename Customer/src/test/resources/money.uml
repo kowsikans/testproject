@@ -12459,7 +12459,7 @@
 						<modelTransition to="(xucFslqGAqAEbgVh:xucFslqGAqAEbgVi:rk1u9VqGAqAEbgtP,eBE29VqGAqAEbgpi:Xk1u9VqGAqAEbgtS),(jcgh9VqGAqAEbgxf,eBE29VqGAqAEbgpi:rcgh9VqGAqAEbgxi)"/>
 					</xmi:Extension>
 				</ownedOperation>
-				<ownedOperation isAbstract="false" isLeaf="false" isOrdered="false" isQuery="false" isStatic="false" isUnique="true" name="add" visibility="public" xmi:id="DnHc9VqGAqAEbgf4" xmi:type="uml:Operation">
+				<ownedOperation isAbstract="false" isLeaf="false" isOrdered="false" isQuery="false" isStatic="false" isUnique="true" name="money1.add" visibility="public" xmi:id="DnHc9VqGAqAEbgf4" xmi:type="uml:Operation">
 					<ownedParameter direction="return" type="SHWfdVqGAqAEbgbp" xmi:id="DnHc9VqGAqAEbgf4_return" xmi:type="uml:Parameter"/>
 					<ownedParameter kind="inout" name="m" type="hPCM9VqGAqAEbgdY" xmi:id="5Gfc9VqGAqAEbgf6" xmi:type="uml:Parameter">
 						<xmi:Extension extender="Visual Paradigm">
