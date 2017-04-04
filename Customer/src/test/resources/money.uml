@@ -12656,7 +12656,7 @@
 						<argument value="50" xmi:id="ypYh9VqGAqAEbgx2" xmi:type="uml:LiteralString"/>
 						<argument value="&quot;USD&quot;" xmi:id="TcEh9VqGAqAEbgx3" xmi:type="uml:LiteralString"/>
 					</message>
-					<message messageSort="synchCall" name="money1.add(money2)" receiveEvent="5t0h9VqGAqAEbgyP" sendEvent="5t0h9VqGAqAEbgyO" xmi:id="5t0h9VqGAqAEbgyN" xmi:type="uml:Message">
+					<message messageSort="synchCall" name="add(money2)" receiveEvent="5t0h9VqGAqAEbgyP" sendEvent="5t0h9VqGAqAEbgyO" xmi:id="5t0h9VqGAqAEbgyN" xmi:type="uml:Message">
 						<xmi:Extension extender="Visual Paradigm">
 							<number xmi:value="3"/>
 							<asynshronous xmi:value="false"/>
